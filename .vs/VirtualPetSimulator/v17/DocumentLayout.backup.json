@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|c:\\users\\hp\\source\\repos\\virtualpetsimulator\\virtualpetsimulator\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\scripts\\firebaseautht.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\scripts\\firebaseautht.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\setsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\setsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\setsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\setsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\gamedog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\gamedog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\gamedog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\gamedog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\namepet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\namepet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\namepet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\namepet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\pets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\pets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\virtualpetsimulator\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85670-2E0A-4D07-8EFC-F28D42004C19}|VirtualPetSimulator\\VirtualPetSimulator.csproj|solutionrelative:virtualpetsimulator\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\ForgotPassword.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\ForgotPassword.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\ForgotPassword.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\ForgotPassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-19T21:22:33.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Signup.aspx.cs",
+              "RelativeToolTip": "VirtualPetSimulator\\Signup.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:28:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SetSession.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\SetSession.aspx.cs",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\SetSession.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\SetSession.aspx.cs",
+              "RelativeToolTip": "VirtualPetSimulator\\SetSession.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:55:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetSession.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\SetSession.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\SetSession.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\SetSession.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\SetSession.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-05T21:55:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Login.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Login.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Login.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-05T21:46:04.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Signup.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Signup.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Signup.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-05T21:44:43.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseAutht.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Scripts\\FirebaseAutht.js",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Scripts\\FirebaseAutht.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Scripts\\FirebaseAutht.js",
+              "RelativeToolTip": "VirtualPetSimulator\\Scripts\\FirebaseAutht.js",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAEIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-05T21:27:13.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameDog.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\GameDog.aspx.cs",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\GameDog.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\GameDog.aspx.cs",
+              "RelativeToolTip": "VirtualPetSimulator\\GameDog.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T19:27:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameDog.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\GameDog.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\GameDog.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\GameDog.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\GameDog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T23:40:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NamePet.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\NamePet.aspx.cs",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\NamePet.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\NamePet.aspx.cs",
+              "RelativeToolTip": "VirtualPetSimulator\\NamePet.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:33:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NamePet.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\NamePet.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\NamePet.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\NamePet.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\NamePet.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T23:32:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pets.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Pets.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Pets.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Pets.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\Pets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-11T00:26:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Default.aspx",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Default.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Default.aspx",
+              "RelativeToolTip": "VirtualPetSimulator\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T21:00:16.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Default.aspx.cs",
+              "RelativeToolTip": "VirtualPetSimulator\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:05:13.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Scripts\\script.js",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Scripts\\script.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Scripts\\script.js",
+              "RelativeToolTip": "VirtualPetSimulator\\Scripts\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-06T21:05:01.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Content\\styles.css",
+              "RelativeDocumentMoniker": "VirtualPetSimulator\\Content\\styles.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\VirtualPetSimulator\\VirtualPetSimulator\\Content\\styles.css",
+              "RelativeToolTip": "VirtualPetSimulator\\Content\\styles.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T21:04:26.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

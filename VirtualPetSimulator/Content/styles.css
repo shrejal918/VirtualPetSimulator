@@ -1,0 +1,119 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.pet-area img {
+    width: 150px;
+    transition: transform 0.3s;
+}
+
+.pet-area p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.status-bars {
+    margin: 20px 0;
+}
+
+.status {
+    margin: 10px 0;
+}
+
+progress {
+    width: 80%;
+    height: 20px;
+    appearance: none;
+}
+
+.controls button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+    .controls button:hover {
+        background-color: #45a049;
+    }
+.hidden {
+    display: none;
+}
+body {
+    font-family: Arial;
+    background-color: #e0f7fa;
+    text-align: center;
+}
+
+.home-container, .pet-container {
+    margin-top: 50px;
+}
+
+.textbox {
+    padding: 10px;
+    width: 250px;
+    font-size: 16px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.pet-options {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.pet-card {
+    width: 150px;
+    text-align: center;
+}
+
+    .pet-card img {
+        width: 100px;
+        height: 100px;
+        object-fit: contain;
+        border-radius: 15px;
+        box-shadow: 0 0 10px #aaa;
+        transition: transform 0.3s;
+    }
+
+        .pet-card img:hover {
+            transform: scale(1.1);
+        }
+progress::-webkit-progress-bar {
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+progress::-webkit-progress-value {
+    background-color: #4caf50;
+    border-radius: 10px;
+    transition: width 0.4s ease-in-out;
+}
